@@ -1,0 +1,13 @@
+aws_sbt_snowflake_project:
+  outputs:
+    dev:
+      account: 
+      database: 
+      password: 
+      role: 
+      schema: 
+      threads: 1
+      type: 
+      user: 
+      warehouse: 
+  target: dev
