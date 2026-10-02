@@ -1,13 +1,13 @@
 aws_sbt_snowflake_project:
   outputs:
     dev:
-      account: TSQACAN-JF81997
-      database: AIRBNB
-      password: 8090175358_Alok
-      role: ACCOUNTADMIN
-      schema: dbt_schema
+      account: 
+      database: 
+      password: 
+      role: 
+      schema: 
       threads: 1
-      type: snowflake
-      user: ALOK8090
-      warehouse: COMPUTE_WH
+      type: 
+      user: 
+      warehouse: 
   target: dev
